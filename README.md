@@ -2,7 +2,7 @@
 Automatic login using selenium
 
 Used seleium to automate login
-##Steps
+## Steps
 ⦁	Install the latest version of Python from https://⦁	www.python.org/downloads/ , if not present in the system
 ⦁	Install Selenium, using the command “pip install selenium” in the command prompt.
 ⦁	Selenium requires a driver to interface with the chosen browser. Since the chosen browser here is chrome, we need chrome driver. It can be downloaded from
